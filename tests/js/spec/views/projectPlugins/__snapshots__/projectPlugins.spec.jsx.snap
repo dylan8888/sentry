@@ -135,7 +135,7 @@ exports[`ProjectPlugins renders 1`] = `
                         </StyledInlineSvg>
                         <StyledTextBlock>
                           <div
-                            className="css-c2j570-TextBlock-StyledTextBlock ejthpj81"
+                            className="css-19xe06l-TextBlock-StyledTextBlock ejthpj81"
                           >
                             <WithOrganizationMockWrapper
                               access={

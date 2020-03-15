@@ -153,6 +153,7 @@ const HelpDescription = styled('div')`
 `;
 
 const AlertWrapper = styled('div')`
+  flex: 1;
   ${HelpButton} {
     color: #6d6319;
     &:hover {
